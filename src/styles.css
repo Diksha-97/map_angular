@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "node_modules/ol/ol.css"; */
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
